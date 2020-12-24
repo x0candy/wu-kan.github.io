@@ -19,7 +19,6 @@
 
 <!-- .slide -->
 
-## Education
 
 <!-- .slide vertical=true -->
 
